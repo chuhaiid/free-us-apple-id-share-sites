@@ -1,4 +1,4 @@
-# 免费美区Apple ID每日共享:免费共享苹果外区ID(每天自动更新)+ 共享站汇总与使用须知
+# 美区Apple ID共享:免费美区苹果ID每日自动更新 + 共享站汇总与使用须知
 
 <!-- DAILY:START -->
 ![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026--10--15-fbbf24) ![今日共享账号](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E5%85%B1%E4%BA%AB%E8%B4%A6%E5%8F%B7-6%20%E4%B8%AA-f59e0b) ![已自动更新](https://img.shields.io/badge/%E5%B7%B2%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0-12%20%E5%A4%A9-0ea5e9)
