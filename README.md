@@ -1,9 +1,9 @@
 # 美区Apple ID共享:免费美区苹果ID每日自动更新 + 共享站汇总与使用须知
 
 <!-- DAILY:START -->
-![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026--10--27-fbbf24) ![今日共享账号](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E5%85%B1%E4%BA%AB%E8%B4%A6%E5%8F%B7-0%20%E4%B8%AA-f59e0b) ![已自动更新](https://img.shields.io/badge/%E5%B7%B2%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0-24%20%E5%A4%A9-0ea5e9)
+![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026--10--28-fbbf24) ![今日共享账号](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E5%85%B1%E4%BA%AB%E8%B4%A6%E5%8F%B7-0%20%E4%B8%AA-f59e0b) ![已自动更新](https://img.shields.io/badge/%E5%B7%B2%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0-25%20%E5%A4%A9-0ea5e9)
 
-> 🍎 **2026-10-27 已更新 · 今日 0 个公开共享账号**(来源页每小时刷新,本表每天 0:00 同步一次)。
+> 🍎 **2026-10-28 已更新 · 今日 0 个公开共享账号**(来源页每小时刷新,本表每天 0:00 同步一次)。
 > 账号和密码的完整内容在来源页点一下就能复制:**[桃子ID指南 · 免费共享账号](https://www.taozi55.com/gongxiang/)**;本仓库只保留打码版做备用入口,不公开明文,减少被爬虫批量登录导致的锁号。
 
 | 地区 | 账号(打码) | 密码 | 来源检测时间 |
