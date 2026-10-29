@@ -96,7 +96,7 @@
 | 翻墙男 | https://fanqiangnan.com/appleid.html | 写明提供美区、港区、日区、台区账号,每 30 分钟自动检测更换 |
 | Shadowrocket 账号共享平台 | https://free.iosapp.icu/ | 写明每 30 分钟更新一次;账号由页面加载后显示 |
 | Apple ID 共享站 | https://id.jincaii.com/ | 列出美区账号,每个账号标注更新时间 |
-| NewBee / ID | https://id.tangping.icu/ | 美区、香港区、台湾区账号;写明由轮转系统维护,密码点开才显示 |
+| NewBee / ID | https://id.tangping.icu/ | 美区、香港区、台湾区、日本区、韩国区账号;写明由自动轮换系统维护,密码点开才显示,取密后 30 分钟自动换密 |
 | USIDS | https://id.usids.de/ | 写明后台每隔几分钟自动维护账号状态 |
 | 小优 ID 共享站 | https://idfree.top/ | 写明是公益项目、永久免费;页面列出正确登录方式和禁止操作 |
 | 98ID | https://ids.98id.org/ | 写明覆盖美国、香港、日本、韩国等地区,每日定时检测更新 |
