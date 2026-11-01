@@ -1,7 +1,7 @@
 name: daily-update
 on:
   schedule:
-    - cron: "0 16 * * *"      # UTC 16:00 = 北京 0:00
+    - cron: "17 */3 * * *"    # 约每 3 小时(UTC 整点后 17 分,避开整点排队);账号表没变就不提交
   workflow_dispatch:
 permissions:
   contents: write
@@ -21,5 +21,5 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           if git diff --quiet; then echo "no change"; exit 0; fi
           git add README.md
-          git commit -m "每日更新共享账号 $(TZ=Asia/Shanghai date +%F)"
+          git commit -m "更新共享账号 $(TZ=Asia/Shanghai date '+%F %H:%M')"
           git push
