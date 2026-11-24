@@ -43,7 +43,7 @@ def build(accounts, now):
         head = f"> 🍎 **{stamp} 更新 · 当前 {len(accounts)} 个公开共享账号**(来源页每小时刷新,本表约每 3 小时自动同步)。"
     else:                                       # 来源页没号时如实写「暂缺」,不保留旧账号充数
         count = badge("当前共享账号", "暂缺", "lightgrey")
-        head = f"> 🍎 **来源页 {now:%H:%M} 暂时没有可用账号**,一般几小时内恢复;急用先试下方共享站列表。"
+        head = f"> 🍎 **来源页 {now:%H:%M} 暂时没有可用账号**,一般几小时内恢复,可以直接到来源页看最新的。"
     lines = [
         f'{badge("更新", stamp, "fbbf24")} {count} {badge("已运行", f"{days} 天", "0ea5e9")}',
         "",
