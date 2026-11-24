@@ -1,6 +1,8 @@
 # 每日共享 Apple ID · 免费美区(外区)苹果 ID,每 3 小时自动更新|桃子ID指南
 
 > 免费苹果共享 ID(美区 Apple ID 共享账号为主,另有港区、日区、台区、韩区),用来在 App Store 下载国区搜不到的 App。账号来自 [桃子ID指南](https://www.taozi55.com/gongxiang/) 的公开共享页,程序约每 3 小时同步一次。
+>
+> ⭐ 怕下次找不到这一页:点右上角 **Star** 收藏,账号表会一直自动更新。
 
 <!-- DAILY:START -->
 ![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026--11--24%2010%3A10-fbbf24) ![当前共享账号](https://img.shields.io/badge/%E5%BD%93%E5%89%8D%E5%85%B1%E4%BA%AB%E8%B4%A6%E5%8F%B7-54%20%E4%B8%AA-f59e0b) ![已运行](https://img.shields.io/badge/%E5%B7%B2%E8%BF%90%E8%A1%8C-51%20%E5%A4%A9-0ea5e9)
